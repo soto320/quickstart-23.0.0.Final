@@ -32,3 +32,5 @@ atlassian-ide-plugin.xml
 *.log
 build.metadata
 kitchensink-angularjs/docker-compose-full.yml
+.gitattributes
+.github/
